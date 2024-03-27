@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CardOrderTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-03-24T17:44:09" hostname="DESKTOP-VV3K82S" time="11.636">
+  <properties/>
+  <testcase name="test1()" classname="CardOrderTest" time="4.983"/>
+  <testcase name="test2()" classname="CardOrderTest" time="2.124"/>
+  <testcase name="test3()" classname="CardOrderTest" time="2.248"/>
+  <testcase name="test4()" classname="CardOrderTest" time="2.271"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+мар. 24, 2024 10:44:13 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 123, returning the closest version; found: 122; Please update to a Selenium version that supports CDP version 123
+мар. 24, 2024 10:44:15 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 123, returning the closest version; found: 122; Please update to a Selenium version that supports CDP version 123
+мар. 24, 2024 10:44:17 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 123, returning the closest version; found: 122; Please update to a Selenium version that supports CDP version 123
+мар. 24, 2024 10:44:20 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 123, returning the closest version; found: 122; Please update to a Selenium version that supports CDP version 123
+]]></system-err>
+</testsuite>
